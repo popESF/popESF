@@ -1,17 +1,16 @@
-###  ૮₍⑅˶• ▿ •˶⑅₎ა
+### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
 Uni of York 1st year CS student 
-- ૮ ˶´ ᵕˋ ˶ა They/She 
+- ૮ ˶´ ᵕˋ ˶ა They/She
 - English + Spanish 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
   - https://ko-fi.com/hernk/gallery
   - https://www.instagram.com/kimiakiart/
  - Alevel and GCSE Tutor via TES ~~~~~ ฅ^•ﻌ•^ฅ
     - https://www.tes.com/teaching-resources/shop/poppyfynes10
-
-> JAVA /
-> PYTHON /
-> VISUAL BASIC
-
+## Langs ଘ(੭*ˊᵕˋ)੭* ̀ˋ
+  - Java
+  - Python
+  - VisualBasic
 
 
 
