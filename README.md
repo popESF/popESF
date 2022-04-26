@@ -1,7 +1,7 @@
 ### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
 Uni of York 1st year CS student 
 - ૮ ˶´ ᵕˋ ˶ა They/She
-- English + Spanish 𓂃 ৎ୭ 𓂃
+- English + Spanish + BSL 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
   - https://ko-fi.com/hernk/gallery
   - https://www.instagram.com/kimiakiart/
