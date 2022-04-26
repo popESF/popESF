@@ -8,6 +8,10 @@ Uni of York 1st year CS student
  - Alevel and GCSE Tutor via TES ~~~~~ ฅ^•ﻌ•^ฅ
     - https://www.tes.com/teaching-resources/shop/poppyfynes10
 
+> JAVA /
+> PYTHON /
+> VISUAL BASIC
+
 
 
 
