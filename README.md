@@ -17,8 +17,6 @@ Learning:
   
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 
 ![giphy](https://user-images.githubusercontent.com/89403578/165379527-930f01b0-7df0-49af-80c4-2199156f7a68.gif)
