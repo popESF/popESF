@@ -14,7 +14,10 @@ Uni of York 2nd year CS student
 Learning:
   - Haskell
   - SQL
-  
+  1
+2
+[![My GitHub Stats](https://github.com/popESF)]()
+[![My GitHub Language Stats](https://github.com/popESF)]()
 
 
 
