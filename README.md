@@ -1,5 +1,5 @@
 ### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
-Uni of York 1st year CS student 
+Uni of York 2nd year CS student 
 - ૮ ˶´ ᵕˋ ˶ა They/She
 - English + Spanish + BSL 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
@@ -11,6 +11,10 @@ Uni of York 1st year CS student
   - Java
   - Python
   - VisualBasic
+## Learning
+  - Haskell
+  - SQL
+  
 
 
 
