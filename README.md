@@ -1,5 +1,5 @@
 ### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
-Uni of York 2nd year CS student 
+Hi! i am a third year Computer Science student at the University of York (UK) 
 - She/Her
 - English + BSL 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
