@@ -1,7 +1,7 @@
 ### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
 Uni of York 2nd year CS student 
-- They/She
-- English + Spanish + BSL 𓂃 ৎ୭ 𓂃
+- She/Her
+- English + BSL 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
   - https://ko-fi.com/hernk/gallery
   - https://www.instagram.com/kimiakiart/
@@ -9,10 +9,12 @@ Uni of York 2nd year CS student
     - https://www.tes.com/teaching-resources/shop/poppyfynes10
 ## Langs ଘ(੭*ˊᵕˋ)੭* ̀ˋ
   - Java
-  - Python
-  - VisualBasic
+  - Python 
+  - VisualBasic 
   - SQL, NumPy, Pandas
-  - Learning C# + Haskell 
+  - Haskell
+  - C
+  - C++
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=popESF&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=popESF&langs_count=5&theme=tokyonight)]()
