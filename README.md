@@ -17,7 +17,8 @@ Hi! i am a third year Computer Science student at the University of York (UK)
   - C 
   - C++ for hardware and pipelining 
   - HTML/CSS/Javascript for web development
-
+## Check out my website!!!
+https://popesf.github.io/index.html
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=popESF&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=popESF&langs_count=5&theme=tokyonight)]()
 
