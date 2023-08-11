@@ -11,11 +11,10 @@ Hi! i am a third year Computer Science student at the University of York (PhD ca
   - Java 
   - Python 
   - VisualBasic 
-  - SQL, NumPy, Pandas 
+  - SQL, NumPy, Pandas
+  - C/C++
 ## Learning <3
   - Haskell 
-  - C 
-  - C++ for hardware and pipelining 
   - HTML/CSS/Javascript for web development
 ## Check out my website!!!
 https://popesf.github.io/index.html
