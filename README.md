@@ -1,5 +1,5 @@
 ### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
-Hi! i am a third year Computer Science student at the University of York (UK) 
+Hi! i am a third year Computer Science student at the University of York (PhD candidate 2024!!)
 - She/Her
 - English + BSL 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
