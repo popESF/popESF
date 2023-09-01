@@ -1,6 +1,6 @@
 ### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
 Hi! i am a third year Computer Science student at the University of York 
-September 2024 - PhD Candidate
+- September 2024 - PhD Candidate
 - She/Her
 - English + BSL 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
