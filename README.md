@@ -1,7 +1,7 @@
 ### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
 Hi! i am a third year Computer Science student at the University of York 
-- September 2024 - PhD Candidate
-- She/Her
+- Phd student in AI/ML starting 2024
+- Current XR Developer at XR Stories & SIGN
 - English + BSL 𓂃 ৎ୭ 𓂃
 - Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
   - https://ko-fi.com/hernk/gallery
