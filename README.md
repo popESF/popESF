@@ -1,4 +1,4 @@
-### About me  ૮₍⑅˶• ▿ •˶⑅₎ა 
+### About me 
 Hi! i am a third year Computer Science student at the University of York 
 - Phd student in AI/ML starting 2024
 - Current XR Developer at XR Stories & SIGN
