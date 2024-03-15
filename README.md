@@ -1,14 +1,14 @@
 ### About me 
 Hi! i am a third year Computer Science student at the University of York 
 - Phd student in AI/ML starting 2024
-- Current XR Developer at XR Stories & SIGN
-- English + BSL 𓂃 ৎ୭ 𓂃
-- Digital content Creator and Artist ~~~~  ପ(๑•ᴗ•๑)ଓ ♡
+- Recent XR Developer at XR Stories & SIGN
+- Experience in Cyber-AI practices for large scale clients
+- Digital content Creator and Artist 
   - https://ko-fi.com/hernk/gallery
   - https://www.instagram.com/kimiakiart/
- - Alevel and GCSE Tutor via TES ~~~~~ ฅ^•ﻌ•^ฅ
+ - Alevel and GCSE Tutor via TES 
     - https://www.tes.com/teaching-resources/shop/poppyfynes10
-## Langs ଘ(੭*ˊᵕˋ)੭* ̀ˋ
+## Langs 
   - Java 
   - Python 
   - VisualBasic 
