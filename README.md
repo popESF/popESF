@@ -1,20 +1,22 @@
 ### About me 
-Hi! i am a third year Computer Science student at the University of York 
-- Phd student in AI/ML starting 2024
-- Recent XR Developer at XR Stories & SIGN
-- Experience in Cyber-AI practices for large scale clients
+Hi! i am a PhD Researcher based at the University of York Working in Machine Learning
+- Recent graduate Bsc Computer Science
 - Digital content Creator and Artist 
   - https://ko-fi.com/hernk/gallery
   - https://www.instagram.com/kimiakiart/
  - Alevel and GCSE Tutor via TES 
     - https://www.tes.com/teaching-resources/shop/poppyfynes10
-## Langs 
+## Work Experience
+- Current Research intern in Digital Accessibility for Statistical Packages
+- Prevous Employement as an XR Developer at XRStories an SIGN
+- Previous Employment full time working across Cyber Analyst roles
+## Current Languages 
   - Java 
   - Python 
   - VisualBasic 
   - SQL, NumPy, Pandas
   - C/C++
-## Learning <3
+## Currently Learning
   - Haskell 
   - HTML/CSS/Javascript for web development
 ## Check out my website!!!
