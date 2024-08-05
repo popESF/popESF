@@ -1,9 +1,8 @@
 ### About me 
-Hi! i am a PhD Researcher based at the University of York Working in Machine Learning
+Hi! i am a Doctoral Researcher in Safe Ethical AI at the University of York
 - Recent graduate Bsc Computer Science
+- Part time researcher in Digital Accessibility
 - Digital content Creator and Artist 
-  - https://ko-fi.com/hernk/gallery
-  - https://www.instagram.com/kimiakiart/
  - Alevel and GCSE Tutor via TES 
     - https://www.tes.com/teaching-resources/shop/poppyfynes10
 ## Work Experience
@@ -20,7 +19,7 @@ Hi! i am a PhD Researcher based at the University of York Working in Machine Lea
   - Haskell 
   - HTML/CSS/Javascript for web development
 ## Check out my website!!!
-https://popesf.github.io/index.html
+https://poppyfynes.com
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=popESF&count_private=true&theme=tokyonight&showicons=true)]()
