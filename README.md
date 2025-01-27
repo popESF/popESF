@@ -1,10 +1,9 @@
 ### About me 
-Hi! i am a Doctoral Researcher in Safe Ethical AI at the University of York
-- Recent graduate Bsc Computer Science
+Hi! i am a Doctoral Researcher in Safe AI at the University of York
+- Graduate Bsc Computer Science
 - Part time researcher in Digital Accessibility
 - Digital content Creator and Artist 
- - Alevel and GCSE Tutor via TES 
-    - https://www.tes.com/teaching-resources/shop/poppyfynes10
+ - IET Futures Scholar 2023-24
 ## Work Experience
 - Current Research intern in Digital Accessibility for Statistical Packages
 - Prevous Employement as an XR Developer at XRStories an SIGN
